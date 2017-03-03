@@ -4,7 +4,7 @@
 
 Below is an example custom application built ontop of the Hypergrid API tooling. It also highlights a DOM based custom external editor triggered via hypergrid events as well as interaction with Hypergrid's column ordering API
 
-<img src="images/README/gridshot04.gif">
+<img src="https://github.com/openfin/fin-hypergrid/blob/master/images/README/gridshot04.gif">
 
 ## Table of Contents
 * [Current Release](https://github.com/openfin/fin-hypergrid#current-release-121---27-october-2016)
